@@ -1,0 +1,2 @@
+In order to make a statistical g2p, one needs Phonetisaurus the phoneticizier, OpenFST and Google NGramLibrary.
+Please see https://github.com/AdolfVonKleist/Phonetisaurus for Phonetisaurus.

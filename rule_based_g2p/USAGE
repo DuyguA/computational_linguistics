@@ -1,0 +1,14 @@
+For transcripting the words do
+
+from g2p import G2P
+
+g= G2P()
+
+g.transcript(u"duygu")
+
+["d u j gj u"]
+
+
+If you want to give a vocabulary file and obtain a lexicon, do
+
+python lexicon_maker filename
