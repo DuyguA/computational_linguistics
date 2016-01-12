@@ -30,6 +30,7 @@ r
 s
 S
 t
+tS
 u
 u
 v
